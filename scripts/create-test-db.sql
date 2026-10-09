@@ -1,0 +1,1 @@
+CREATE DATABASE mint_test;
